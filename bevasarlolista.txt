@@ -3,3 +3,17 @@ tej
 tojas
 csokoládé
 ásványvíz
+sushi
+egyéb
+cukorka
+borotva
+<<<<<<< HEAD
+tejföl
+
+
+=======
+sajt
+>>>>>>> f44fc16e13c7e860643cabab5890532e84be4573
+playstation
+pzs
+cukorka
