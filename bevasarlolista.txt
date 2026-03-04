@@ -7,4 +7,6 @@ sushi
 egyéb
 cukorka
 borotva
+tejföl
+
 
